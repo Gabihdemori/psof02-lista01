@@ -1,6 +1,6 @@
 # 🧠 Exercício Fullstack: Lógica de Programação + Frontend e Backend
 
-Este projeto tem como objetivo exercitar habilidades de desenvolvimento **Fullstack** utilizando **HTML, CSS, JavaScript (Frontend)** e **Node.js ou outro Backend à escolha**.
+Este projeto tem como objetivo exercitar habilidades de desenvolvimento **Fullstack** utilizando **HTML, CSS, JavaScript (Frontend)** e **Node.js**.
 
 ## 🚀 Funcionalidades Implementadas
 
